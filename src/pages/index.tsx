@@ -1,7 +1,8 @@
+import { Box } from "@mui/material";
 import React from "react";
 
 export default function Home() {
   return (
-    <h1>Word</h1>
+    <Box color="cyan.100">teste</Box>
   )
 }
